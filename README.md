@@ -12,13 +12,13 @@
 
 <!-- Animated Badges -->
 <p>
-    <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-00d4ff?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Status-Seeking%20PFE%20Internship-00ff88?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Focus-Science%20des%20Données%20%26%20IA-00d4ff?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Statut-Recherche%20Stage%20PFE-00ff88?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Localisation-Casablanca%2C%20Maroc-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 <!-- Profile Views Counter with Animation -->
-<img src="https://komarev.com/ghpvc/?username=SaadBenth7o&label=Profile%20Views&color=36bcf7&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SaadBenth7o&label=Vues%20du%20Profil&color=36bcf7&style=for-the-badge" alt="Vues du Profil" />
 
 </div>
 
@@ -29,25 +29,25 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> À Propos de Moi
 
 ```python
 class SaadBenth7o:
     def __init__(self):
         self.name = "Saad Benth7o"
-        self.role = "5th Year Engineering Student - MIAGE"
+        self.role = "Étudiant en 5ème année d'Ingénierie - MIAGE"
         self.education = {
             "current": "Master MIAGE – Intelligence Artificielle Appliquée @ UCA & EMSI",
             "degree": "Génie Informatique et Réseaux, option MIAGE",
             "period": "2021-2026"
         }
-        self.location = "Casablanca, Morocco 🇲🇦"
-        self.interests = ["Data Analysis", "Artificial Intelligence", "Observability", "Business Intelligence"]
-        self.seeking = "6-month PFE internship starting end of February"
+        self.location = "Casablanca, Maroc 🇲🇦"
+        self.interests = ["Analyse de Données", "Intelligence Artificielle", "Observabilité", "Business Intelligence"]
+        self.seeking = "Stage PFE de 6 mois à partir de fin février"
         
     def say_hi(self):
-        print("Passionate about Data Science, AI, and their business applications!")
-        print("Looking to contribute to high-impact projects combining technical skills with business analysis.")
+        print("Passionné par la Science des Données, l'IA et leurs applications métier !")
+        print("Cherchant à contribuer à des projets à fort impact combinant compétences techniques et analyse métier.")
 
 me = SaadBenth7o()
 me.say_hi()
@@ -55,27 +55,27 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 Current Focus
+## 🎯 Focus Actuel
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 What I'm Working On
-- 📊 Data Analysis & Business Intelligence
-- 🤖 AI & Machine Learning Applications
-- 🔍 Observability & Monitoring Systems
-- 🎓 Completing Master's in Applied AI
-- 🔎 Seeking 6-month PFE Internship
+### 🚀 Sur Quoi Je Travaille
+- 📊 Analyse de Données & Business Intelligence
+- 🤖 Applications d'IA & Machine Learning
+- 🔍 Observabilité & Systèmes de Monitoring
+- 🎓 Finalisation du Master en IA Appliquée
+
 
 </td>
 <td width="50%">
 
-### 💡 Interests & Hobbies
-- ♟️ Chess Enthusiast
-- 🏛️ Architecture & Heritage
-- 🎨 Museums & Culture
-- ☕ Continuous Learning
+### 💡 Centres d'Intérêt & Loisirs
+- ♟️ Passionné d'Échecs
+- 🏛️ Architecture & Patrimoine
+- 🎨 Musées & Culture
+- ☕ Apprentissage Continu
 
 </td>
 </tr>
@@ -83,11 +83,11 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Arsenal Technologique
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Langages de Programmation
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -97,7 +97,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🤖 AI & Data Science
+### 🤖 IA & Science des Données
 <p>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -107,7 +107,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks & Bibliothèques
 <p>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -116,7 +116,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/Ollama-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
-### 📊 Observability & Monitoring
+### 📊 Observabilité & Monitoring
 <p>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
@@ -126,7 +126,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/APM_Server-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </p>
 
-### 🔧 DevOps & Tools
+### 🔧 DevOps & Outils
 <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -136,7 +136,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bases de Données
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -144,7 +144,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🖥️ System Administration
+### 🖥️ Administration Système
 <p>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
@@ -154,21 +154,21 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎓 Education
+## 🎓 Formation
 
 <div align="center">
 
-| Institution | Degree | Period | Location |
-|------------|--------|--------|----------|
+| Institution | Diplôme | Période | Localisation |
+|------------|---------|---------|-------------|
 | 🎓 **Université Côte d'Azur** | Master MIAGE – Intelligence Artificielle Appliquée à la Gestion des Entreprises | 2025-2026 | Nice, France |
-| 🏛️ **École Marocaine des Sciences de l'Ingénieur (EMSI)** | Génie Informatique et Réseaux, option MIAGE | 2021-2026 | Casablanca, Morocco |
+| 🏛️ **École Marocaine des Sciences de l'Ingénieur (EMSI)** | Génie Informatique et Réseaux, option MIAGE | 2021-2026 | Casablanca, Maroc |
 | 📚 **Baccalauréat** | Sciences Mathématiques A option français | 2020-2021 | - |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💼 Professional Experience
+## 💼 Expérience Professionnelle
 
 <div align="center">
 
@@ -177,17 +177,17 @@ me.say_hi()
 <td width="50%">
 
 ### 🏦 Banque Populaire
-**Data Surveillance Intern** | *July - August 2025 (2 months)*
+**Stagiaire en Surveillance des Données** | *Juillet - Août 2025 (2 mois)*
 
-**Location:** Casablanca, Morocco
+**Localisation :** Casablanca, Maroc
 
-**Responsibilities:**
-- 🔍 Observability platform development
-- 📊 Centralization of logs, metrics, and traces
-- 🚨 Rapid diagnostics and dashboards
-- 📈 System monitoring and analysis
+**Responsabilités :**
+- 🔍 Développement de plateforme d'observabilité
+- 📊 Centralisation des logs, métriques et traces
+- 🚨 Diagnostics rapides et tableaux de bord
+- 📈 Monitoring et analyse des systèmes
 
-**Tech Stack:**
+**Stack Technologique :**
 - ELK Stack (Elasticsearch, Logstash, Kibana)
 - APM Server
 - Prometheus & Node Exporter
@@ -196,17 +196,17 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 🏭 OCP Group
-**Web Development Intern** | *July - August 2024 (2 months)*
+### 🏭 Groupe OCP
+**Stagiaire en Développement Web** | *Juillet - Août 2024 (2 mois)*
 
-**Location:** Khouribga, Morocco
+**Localisation :** Khouribga, Maroc
 
-**Responsibilities:**
-- 👥 Personnel management application
-- 🔐 CRUD operations & authentication system
-- 🎨 Frontend development
+**Responsabilités :**
+- 👥 Application de gestion du personnel
+- 🔐 Opérations CRUD & système d'authentification
+- 🎨 Développement frontend
 
-**Tech Stack:**
+**Stack Technologique :**
 - PHP, HTML, CSS, Bootstrap, JavaScript
 - MySQL
 - Canva, StarUML
@@ -216,12 +216,12 @@ me.say_hi()
 <tr>
 <td width="100%" colspan="2">
 
-### 🏭 OCP Group
-**Initiation Intern** | *July 2023 (1 month)*
+### 🏭 Groupe OCP
+**Stage d'Initiation** | *Juillet 2023 (1 mois)*
 
-**Location:** Khouribga, Morocco
+**Localisation :** Khouribga, Maroc
 
-**Experience:** Observation of internal processes and professional environment adaptation
+**Expérience :** Observation des processus internes et adaptation à l'environnement professionnel
 
 </td>
 </tr>
@@ -231,7 +231,7 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Featured Projects
+## 🏆 Projets Phares
 
 <div align="center">
 
@@ -239,28 +239,28 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 📈 Stock Price Prediction
-**Tech Stack:** Deep Learning, LSTM
+### 📈 Prédiction du Prix des Actions
+**Stack Technologique :** Deep Learning, LSTM
 
-Time series analysis project that captures temporal dependencies in price sequences. Analyzes the last 60 days to predict future stock prices.
+Projet d'analyse de séries temporelles qui capture les dépendances temporelles dans les séquences de prix. Analyse les 60 derniers jours pour prédire les prix futurs des actions.
 
-**Highlights:**
-- 📊 Time series forecasting
-- 🧠 LSTM neural networks
-- 📉 Price trend analysis
+**Points Forts :**
+- 📊 Prévision de séries temporelles
+- 🧠 Réseaux de neurones LSTM
+- 📉 Analyse des tendances de prix
 
 </td>
 <td width="50%">
 
-### 🏥 Pneumonia Classification
-**Tech Stack:** Deep Learning, CNN, MobileNet
+### 🏥 Classification de la Pneumonie
+**Stack Technologique :** Deep Learning, CNN, MobileNet
 
-Medical image classification system that detects pneumonia in chest X-rays using convolutional neural networks.
+Système de classification d'images médicales qui détecte la pneumonie dans les radiographies pulmonaires en utilisant des réseaux de neurones convolutifs.
 
-**Highlights:**
-- 🖼️ Medical image analysis
-- 🧠 CNN MobileNet architecture
-- 🎯 High accuracy classification
+**Points Forts :**
+- 🖼️ Analyse d'images médicales
+- 🧠 Architecture CNN MobileNet
+- 🎯 Classification à haute précision
 
 </td>
 </tr>
@@ -268,29 +268,29 @@ Medical image classification system that detects pneumonia in chest X-rays using
 <td width="50%">
 
 ### 📚 Find 2 Read
-**Tech Stack:** Spring Boot, Ollama, RAG, Thymeleaf, MongoDB
+**Stack Technologique :** Spring Boot, Ollama, RAG, Thymeleaf, MongoDB
 
-Web application for book recommendations with AI-powered chatbot, user management, and analytics dashboards.
+Application web de recommandation de livres avec chatbot alimenté par l'IA, gestion des utilisateurs et tableaux de bord analytiques.
 
-**Highlights:**
-- 🤖 AI chatbot with RAG
-- 📖 Book recommendation system
-- 📊 User dashboards
-- 🔐 User management
+**Points Forts :**
+- 🤖 Chatbot IA avec RAG
+- 📖 Système de recommandation de livres
+- 📊 Tableaux de bord utilisateurs
+- 🔐 Gestion des utilisateurs
 
 </td>
 <td width="50%">
 
-### ✅ Task Manager
-**Tech Stack:** Django, MySQL, StarUML
+### ✅ Gestionnaire de Tâches
+**Stack Technologique :** Django, MySQL, StarUML
 
-Task management application with secure authentication, developed using Django framework.
+Application de gestion de tâches avec authentification sécurisée, développée en utilisant le framework Django.
 
-**Highlights:**
-- 📝 Task organization
-- 🔐 Secure authentication
-- 🗄️ Database integration
-- 📐 UML modeling
+**Points Forts :**
+- 📝 Organisation des tâches
+- 🔐 Authentification sécurisée
+- 🗄️ Intégration de base de données
+- 📐 Modélisation UML
 
 </td>
 </tr>
@@ -300,7 +300,7 @@ Task management application with secure authentication, developed using Django f
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 Statistiques GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadBenth7o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -317,79 +317,79 @@ Task management application with secure authentication, developed using Django f
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏅 Certifications & Learning
+## 🏅 Certifications & Apprentissage
 
 <div align="center">
 
-| Certificate | Institution | Focus Area |
-|------------|-------------|------------|
-| 🏆 **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle | AI & Cloud Computing |
-| 🐍 **Python for Data Science** | Coursera | Data Science |
-| 🤖 **AI & Development** | Coursera | Artificial Intelligence |
+| Certification | Institution | Domaine |
+|---------------|-------------|---------|
+| 🏆 **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle | IA & Cloud Computing |
+| 🐍 **Python for Data Science** | Coursera | Science des Données |
+| 🤖 **AI & Development** | Coursera | Intelligence Artificielle |
 | 🧠 **Machine Learning with Python** | Coursera | Machine Learning |
-| ✨ **Generative AI: Prompt Engineering** | Coursera | Generative AI |
+| ✨ **Generative AI: Prompt Engineering** | Coursera | IA Générative |
 | 📊 **Data Analysis with Power BI** | Coursera | Business Intelligence |
-| 💾 **The Structured Query Language (SQL)** | Coursera | Database Management |
+| 💾 **The Structured Query Language (SQL)** | Coursera | Gestion de Bases de Données |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌍 Languages
+## 🌍 Langues
 
 <div align="center">
 
-| Language | Level |
-|----------|-------|
-| 🇲🇦 **Arabic** | Native |
-| 🇫🇷 **French** | Advanced |
-| 🇬🇧 **English** | Advanced |
+| Langue | Niveau |
+|--------|-------|
+| 🇲🇦 **Arabe** | Natif |
+| 🇫🇷 **Français** | Avancé |
+| 🇬🇧 **Anglais** | Avancé |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💪 Soft Skills
+## 💪 Compétences Transversales
 
 <div align="center">
 
 <p>
-    <img src="https://img.shields.io/badge/Team_Spirit-FF6B6B?style=for-the-badge&logo=users&logoColor=white" />
-    <img src="https://img.shields.io/badge/Resilience-4ECDC4?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/Esprit_d'Équipe-FF6B6B?style=for-the-badge&logo=users&logoColor=white" />
+    <img src="https://img.shields.io/badge/Résilience-4ECDC4?style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/Communication-FFE66D?style=for-the-badge&logo=chat&logoColor=black" />
-    <img src="https://img.shields.io/badge/Adaptability-95E1D3?style=for-the-badge&logo=refresh&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adaptabilité-95E1D3?style=for-the-badge&logo=refresh&logoColor=white" />
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Connect With Me
+## 🌐 Contactez-Moi
 
 <div align="center">
 
 <a href="https://github.com/SaadBenth7o">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/saad-bendahou-11878021a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💬 Let's Collaborate!
+### 💬 Collaborons Ensemble !
 
 <p>
-I'm seeking a <strong>6-month PFE internship</strong> starting end of February, focusing on <strong>Data Science</strong>, <strong>AI</strong>, and <strong>Observability</strong>.<br/>
-Interested in projects that combine technical expertise with business analysis and decision support.<br/>
-Feel free to reach out for opportunities, collaborations, or just a tech chat! ☕
+Je recherche un <strong>stage PFE de 6 mois</strong> à partir de fin février, axé sur la <strong>Science des Données</strong>, l'<strong>IA</strong> et l'<strong>Observabilité</strong>.<br/>
+Intéressé par des projets qui combinent expertise technique avec analyse métier et aide à la décision.<br/>
+N'hésitez pas à me contacter pour des opportunités, collaborations ou simplement discuter tech ! ☕
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💭 Dev Quote
+## 💭 Citation Dev
 
 <div align="center">
 
@@ -399,7 +399,7 @@ Feel free to reach out for opportunities, collaborations, or just a tech chat! �
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏅 GitHub Trophies
+## 🏅 Trophées GitHub
 
 <div align="center">
   
@@ -413,10 +413,6 @@ Feel free to reach out for opportunities, collaborations, or just a tech chat! �
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
 <div align="center">
-  
-### Show some ❤️ by starring ⭐ some of my repositories!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 </div>
 
