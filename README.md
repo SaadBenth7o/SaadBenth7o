@@ -105,17 +105,12 @@ Assistant IA permettant d'interroger les styles et bâtiments patrimoniaux de Ca
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadBenth7o&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadBenth7o&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadBenth7o&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
   <a href="https://github.com/SaadBenth7o">
-    <img src="https://img.shields.io/badge/Voir_mon_profil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/Voir_mon_profil_GitHub_complet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>
 
