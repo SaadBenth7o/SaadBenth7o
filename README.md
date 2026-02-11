@@ -2,7 +2,7 @@
 
 # Saad Bendahou
 
-**Data Science Engineer | AI & Business Intelligence**
+**Data Science Engineer**
 
 *Étudiant en 5ème année d'Ingénierie - MIAGE | Recherche Stage PFE 6 mois*
 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 À Propos
 
-Étudiant en 5ème année d'ingénierie en Informatique et IA (MIAGE), je cherche un **stage PFE de 6 mois à partir de février**. Passionné par **la Data, la BI et l'IA appliquées à l'aide à la décision**, je souhaite évoluer dans un environnement mêlant technique, systèmes d'information et compréhension métier.
+Étudiant en 5ème année d'ingénierie en Informatique et IA (MIAGE).
 
 **Formation :**
 - 🎓 **Master MIAGE IA2** – Intelligence Artificielle Appliquée à la Gestion des Entreprises  
