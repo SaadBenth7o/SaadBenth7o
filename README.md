@@ -141,10 +141,6 @@ Assistant IA permettant d'interroger les styles et bâtiments patrimoniaux de Ca
 
 ---
 
-## 🤝 Contact
-
-Intéressé par un **stage PFE de 6 mois** axé sur la **Data Science**, l'**IA** et l'**Observabilité** ?  
-N'hésitez pas à me contacter pour discuter d'opportunités ou de collaborations !
 
 <div align="center">
 
