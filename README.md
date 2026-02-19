@@ -2,9 +2,9 @@
 
 # Saad Bendahou
 
-**Data Science Engineer**
+**Data Engineer**
 
-*Étudiant en 5ème année d'Ingénierie - MIAGE | Recherche Stage PFE 6 mois*
+*Étudiant en 5ème année d'Ingénierie - MIAGE *
 
 [![Email](https://img.shields.io/badge/Email-BENDAHOU.SAAD@GMAIL.COM-blue?style=flat-square&logo=gmail)](mailto:BENDAHOU.SAAD@GMAIL.COM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saad--bendahou-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saad-bendahou/)
